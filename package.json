@@ -1,7 +1,7 @@
 {
   "name": "raftlab-assignment-2",
   "homepage": "https://anupamlata.github.io/raftlab-assignment-2",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
