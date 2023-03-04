@@ -60,6 +60,7 @@ function ChessBoard() {
                     :
                     <>
                         <p>Your Knight is on {squareClicked}</p>
+                        <p>Knight can move on below possible ways:</p>
                         <ul>
                             {possibleMoves.map(([x, y], index) => (
                                 <li key={index}>
